@@ -1,0 +1,15 @@
+h4.alert-heading {
+	font-weight:bold;
+}
+.well p {
+	line-height:20px;
+	font-size:15px;
+}
+.vert-middle thead > tr > th, 
+.vert-middle tbody > tr > th, 
+.vert-middle tfoot > tr > th, 
+.vert-middle thead > tr > td, 
+.vert-middle tbody > tr > td, 
+.vert-middle tfoot > tr > td {
+	vertical-align:middle;
+}
